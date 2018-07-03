@@ -1,3 +1,5 @@
 # Ijkplayer-so-lib
 
-# ijkplayer so lib, build base "0.8.8"
+# Ijkplayer so lib, build base "0.8.8"
+
+# Ijkplayer repository https://github.com/Bilibili/ijkplayer
